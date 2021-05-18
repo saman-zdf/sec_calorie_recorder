@@ -1,0 +1,4 @@
+#!/usr/bin/index ruby
+
+require_relative '../lib/index.rb'
+
