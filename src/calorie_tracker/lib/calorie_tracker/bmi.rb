@@ -1,5 +1,5 @@
 class Bmi
-  # attr_reader :weight
+  attr_reader :weight, :height
   def initialize(weight, height)
     @weight = weight
     @height = height
